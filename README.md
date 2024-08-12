@@ -1,35 +1,36 @@
-# Proyecto_Data_Science
-Proyecto Writing a Data Scientist Blog Post
+# Proyecto Data Science: "Analisis de mejoras en el proceso de abastecimiento de combustible de camiones mineros"
 
-## Table of Contents
-1. [Installation](#Installation)
-2. [Project Motivation](#Project-Motivation)
-3. [File Descriptions](#File-Descriptions)
-4. [Results](#Results)
-5. [Licensing, Authors, and Acknowledgements](#Licensing-Authors-and-Acknowledgements)
+## Tabla de Contenidos
+1. [Instalación](#Instalación)
+2. [Motivación del Proyecto](#Motivación-del-Proyecto)
+3. [Descripción de Archivos](#Descripción-de-Archivos)
+4. [Resultados](#Resultados)
+5. [Licencia, Autores y Reconocimientos](#Licencia-Autores-y-Reconocimientos)
 
-## Installation
-The code should run with no issues using Python versions 3.*. The libraries used are:
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- sklearn
+## Instalación
+El código debería funcionar sin problemas utilizando versiones de Python 3.10.13
+Las bibliotecas utilizadas son:
+- pandas 2.2.2
+- numpy 2.0.0
+- matplotlib.pyplot 3.9.1
+- seaborn 0.13.2
+- datetime
 
-## Project Motivation
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
-1. What are the most popular programming languages in 2017?
-2. What are the most popular programming languages in 2018?
-3. What are the most popular programming languages in 2019?
-4. What are the most popular programming languages in 2020?
+## Motivación del Proyecto
+Analizar la data de abastecimiento de combustible para determinar si el cambio de horario del personal que atiende el abastecimiento ha logrado mejoras a partir del mes de mayo del 2024 en los siguientes aspectos:
 
-## File Descriptions
-There is one notebook available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
+1. La cantidad horas en que le equipo tiene la demoras "sin combustible" ha disminuido?
 
-## Results
-The main findings of the code can be found at the post available [here](https://medium.com/@josemiguelgarcia_41624/what-are-the-most-popular-programming-languages-in-2020-7b3b1f1b3b3d).
+2. El tiempo promedio x abastecimiento de combustible ha disminuido?
 
-## Licensing, Authors, Acknowledgements
-Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Stack Overflow link available [here](https://insights.stackoverflow.com/survey). Otherwise, feel free to use the code here as you would like! 
-```
+3. La cantidad de abastecimientos > a 25 minutos ha disminuido?
 
+4. Existe aún una diferencia entre guardias relacionada a la cantidad en horas de la demora "sin combustible'?
+
+
+## Descripción de Archivos
+- El repositorio contiene un cuaderno llamado "grifo.ipynb" que muestra el análisis realizado. El cuaderno incluye celdas de markdown que explican el proceso de pensamiento detrás de cada paso.
+- Adicionalmente en el repositorio cuenta con el archivo "demoras_combustible.xlsx" donde se encuentra la data analizada en el presente trabajo.
+
+## Resultados
+Los principales hallazgos del análisis se pueden encontrar en el artículo disponible [aquí](https://medium.com/p/b0afc3bd322d/edit).
