@@ -1,4 +1,9 @@
 # Proyecto Data Science: "Analisis de mejoras en el proceso de abastecimiento de combustible de camiones mineros"
+Proyecto desarrollado como entregable para el curso de "Data Scientist" de UDACITY
+
+Hola Camilita
+
+Para ingresar al Blog del proyecto se puede ingresar [aquí](https://medium.com/p/b0afc3bd322d/edit).
 
 ## Tabla de Contenidos
 1. [Instalación](#Instalación)
