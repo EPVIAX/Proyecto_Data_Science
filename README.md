@@ -3,7 +3,7 @@ Proyecto desarrollado como entregable para el curso de "Data Scientist" de UDACI
 
 Hola Camilita
 
-Para ingresar al Blog del proyecto se puede ingresar [aquí](https://medium.com/p/b0afc3bd322d/edit).
+Para ingresar al Blog del proyecto se puede ingresar [aquí](https://medium.com/@iax.espv/evaluaci%C3%B3n-del-impacto-del-cambio-de-horario-en-el-abastecimiento-de-combustible-para-equipos-b0afc3bd322d).
 
 ## Tabla de Contenidos
 1. [Instalación](#Instalación)
@@ -38,4 +38,8 @@ Analizar la data de abastecimiento de combustible para determinar si el cambio d
 - Adicionalmente en el repositorio cuenta con el archivo "demoras_combustible.xlsx" donde se encuentra la data analizada en el presente trabajo.
 
 ## Resultados
-Los principales hallazgos del análisis se pueden encontrar en el artículo disponible [aquí](https://medium.com/p/b0afc3bd322d/edit).
+El cambio de horario implementado en mayo de 2024 ha tenido un impacto positivo en varios aspectos clave del proceso de abastecimiento de combustible para equipos pesados. Sin embargo, aún quedan áreas por mejorar, especialmente en la equidad entre guardias.
+
+![](Imagenes/Img_preg1.png "Mejora en disminuir tiempos sin combustible")
+
+Los principales hallazgos del análisis se pueden encontrar en el artículo disponible [aquí](https://medium.com/@iax.espv/evaluaci%C3%B3n-del-impacto-del-cambio-de-horario-en-el-abastecimiento-de-combustible-para-equipos-b0afc3bd322d).
